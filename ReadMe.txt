@@ -1,0 +1,1 @@
+This is a python project that displays an Analog Clock using SimpleGUI.
